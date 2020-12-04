@@ -1,0 +1,1 @@
+# AlgoritmoGenetico_FuncaoX
